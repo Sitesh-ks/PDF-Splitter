@@ -6,11 +6,6 @@ Just clean splitting.
 
 ---
 
-## Live Demo
-https://pdf-splitter-iota.vercel.app/
-
----
-
 ## Features
 - Extract selected pages from any PDF (max 100MB)
 - Drag & drop support
@@ -68,7 +63,7 @@ Your files never leave your device.
 ## Installation
 ```bash
 # Clone the repo
-git clone https://github.com/berkindev/pdf-splitter.git
+
 
 # Install dependencies
 cd pdf-splitter
